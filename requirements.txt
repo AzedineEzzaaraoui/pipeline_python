@@ -1,3 +1,4 @@
 pandas==2.0.3
-pymysql==1.0.2
-pytest==7.3.1
+pymysql==1.0.3
+openpyxl==3.1.2
+python-dotenv==1.0.0
